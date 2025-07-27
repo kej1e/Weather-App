@@ -1,4 +1,4 @@
-# 🌤️ Weather App
+#  Weather App
 
 A beautiful, responsive weather application built with React that provides real-time weather information for any city worldwide.
 
@@ -13,7 +13,7 @@ A beautiful, responsive weather application built with React that provides real-
 
 ## 🚀 Live Demo
 
-[Add your GitHub Pages link here once deployed]
+https://kej1e.github.io/Weather-App/
 
 ## 📸 Screenshots
 
@@ -122,5 +122,3 @@ If you encounter any issues:
 4. Open an issue on GitHub
 
 ---
-
-**Made with ❤️ by [Your Name]** 
